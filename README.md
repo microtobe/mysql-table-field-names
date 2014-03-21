@@ -3,4 +3,5 @@ mysql-field-names
 
 mysql database field's name list.
 
-See fields file.
+Table name list is in tables file.
+Field name list is in fields file.
