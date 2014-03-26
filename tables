@@ -1,0 +1,15 @@
+table_name        description
+==========        ===========
+users
+groups
+configs
+locations
+logs
+managers
+messages
+comments
+orders
+schools
+subjects
+teachers
+tokens

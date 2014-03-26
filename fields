@@ -1,0 +1,15 @@
+field_name        description
+++++++++++        +++++++++++
+id
+name
+username
+realname
+password
+email
+avatar            头像
+sex
+gender
+address
+province
+city
+district
