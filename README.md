@@ -1,13 +1,12 @@
-(git pull origin master)...
 mysql-field-names
 =================
 
 mysql database field's name list.
 
-<h1>Table name list is in tables file</h1>
-<a href='tables'>read</a>
+<h3>Table names list</h3>
+	<a href='tables'>read</a>
 
-<h1>Field name list is in fields file</h1>
-<a href='fields'>read</a>
+<h3>Field names list</h3>
+	<a href='fields'>read</a>
 
 
