@@ -1,15 +1,70 @@
 field_name        description
 ++++++++++        +++++++++++
 id
-name
-username
-realname
-password
-email
-avatar            头像
-sex
-gender
-address
-province
-city
-district
+name				用户名
+username			用户名
+realname			真实姓名
+password			密码
+phone				电话
+email				邮箱
+avatar				头像
+sex					性别
+gender				性别
+address				地址
+province			省
+city				市
+district			区
+education			学历
+hometown			家乡
+major				专业
+specialty			特长
+postcode			邮编
+cardid				省份证号码
+credit_value		信用值
+good_rate			好评率
+channel				渠道
+market				市场
+map_x				经度
+map_y				纬度
+mode				模式
+active				可用状态
+showed				显示状态
+canceled			是否取消
+successed			是否成功
+created				创建时间
+modified			修改时间
+parent_id			父ID
+path				路径
+anonymous			匿名
+score				分值
+checked				是否通过审核
+deleted				是否删除状态
+star				星值
+key					key
+value				value
+info				说明
+content				内容
+remark				备注
+introduction		介绍
+status				记录状态
+type				记录类型
+section				部门
+super				是否超级
+params				参数
+client_ip			客户端IP
+process_time		运行时间
+request_time		请求时间
+last_login			上次登录时间
+length				长度
+width				宽度
+height				高度
+readed				是否已读
+reply				回复内容
+price				价格
+version				版本
+close_time			截止时间
+start_time			开始时间
+end_time			结束时间
+uuid				唯一码
+os					系统
+platform			平台
