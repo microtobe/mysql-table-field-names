@@ -1,7 +1,7 @@
-mysql-field-names
+mysql-table-field-names
 =================
 
-mysql database field's name list.
+Usually mysql database table's and field's names list.
 
 <h3>Table names list</h3>
 	<a href='tables'>read</a>
