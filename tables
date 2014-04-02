@@ -3,6 +3,7 @@ table_name        description
 users
 groups
 configs
+params
 locations
 logs
 managers
@@ -13,3 +14,5 @@ schools
 subjects
 teachers
 tokens
+suggestions
+versions
